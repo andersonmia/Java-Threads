@@ -1,4 +1,4 @@
-package rca.ac.rw.threading;
+package rca.ac.rw.threading.safe;
 
 public class BankAccountThreadRunner {
     public static void main(String[] args){

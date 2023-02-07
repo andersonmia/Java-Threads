@@ -1,4 +1,4 @@
-package rca.ac.rw.threading;
+package rca.ac.rw.threading.unsafe;
 
 public class DepositRunnable implements Runnable{
     private static final int DELAY = 1;

@@ -1,4 +1,4 @@
-package rca.ac.rw.threading;
+package rca.ac.rw.threading.safe;
 
 public class WithdrawRunnable implements Runnable {
     private static final int DELAY = 1;

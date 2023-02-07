@@ -1,4 +1,4 @@
-package rca.ac.rw.threading;
+package rca.ac.rw.threading.unsafe;
 
 public class BankAccount {
     private double balance;

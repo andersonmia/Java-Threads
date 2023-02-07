@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efd31688-19c7-46da-b692-d601cd5996a3" name="Changes" comment="" />
+    <list default="true" id="efd31688-19c7-46da-b692-d601cd5996a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/rca/ac/rw/threading/safe/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rca/ac/rw/threading/safe/BankAccountThreadRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rca/ac/rw/threading/safe/DepositRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rca/ac/rw/threading/safe/WithdrawRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rca/ac/rw/threading/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rca/ac/rw/threading/unsafe/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rca/ac/rw/threading/BankAccountThreadRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rca/ac/rw/threading/unsafe/BankAccountThreadRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rca/ac/rw/threading/DepositRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rca/ac/rw/threading/unsafe/DepositRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rca/ac/rw/threading/WithdrawRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rca/ac/rw/threading/unsafe/WithdrawRunnable.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,9 +45,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/mia/IdeaProjects/AboutThreads/src/rca/ac/rw/threading/safe"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/rca/ac/rw/threading/safe" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
